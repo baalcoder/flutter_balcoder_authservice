@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_balcoder_verdorcompany/ui/auth/auth_screen.dart';
 import 'package:flutter_balcoder_verdorcompany/ui/auth/service/auth.service.dart';
 import 'package:flutter_balcoder_verdorcompany/ui/auth/model/user_model.dart';
-import 'package:flutter_balcoder_verdorcompany/ui/home/root_screen.dart';
+import 'package:flutter_balcoder_verdorcompany/ui/auth/root_screen.dart';
 import 'package:provider/provider.dart';
 
 class RootService extends StatefulWidget {
